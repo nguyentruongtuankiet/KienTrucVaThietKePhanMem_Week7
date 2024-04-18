@@ -1,8 +1,8 @@
-# Study Software Achitecture Week7
-Practice week 7 of Software Achitecture  <br>
 
-<h3>FullName: Nguyễn Văn Phú</h3>
-<h3>StudentID: 20048881</h3>
+# Practice week 7 of Software Achitecture  <br>
+
+<h3>FullName: Nguyễn Trường Tuấn Kiệt</h3>
+<h3>StudentID: 20048301</h3>
 
 # Topology - Resilience4j
 
