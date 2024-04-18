@@ -7,7 +7,7 @@
 # Topology - Resilience4j
 
 -cấu hình retry
-![img.png](img.png)
+![img.png]([img.png](https://github.com/nguyentruongtuankiet/KienTrucVaThietKePhanMem_Week7/blob/master/1.PNG))
 
 ![img_1.png](img_1.png)
 
