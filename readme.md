@@ -6,11 +6,11 @@
 
 # Topology - Resilience4j
 
-##-Retry
+## -Retry
 ![img.png](https://github.com/nguyentruongtuankiet/KienTrucVaThietKePhanMem_Week7/blob/master/1.PNG)
 
 ![img_1.png](https://github.com/nguyentruongtuankiet/KienTrucVaThietKePhanMem_Week7/blob/master/2.PNG)
 
-##-Test postman khi tắt 1 service (quá thời gian chờ)
+## -Test postman khi tắt 1 service (quá thời gian chờ)
 
 ![img_2.png](https://github.com/nguyentruongtuankiet/KienTrucVaThietKePhanMem_Week7/blob/master/3.PNG)
